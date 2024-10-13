@@ -15,6 +15,6 @@ Los commits deben estar adecuadamente comentados, dejando claros los cambios rea
 
 Cuando el alumno considere que los cambios deben pasarse al repositorio principal deberán hacer un pull request al mismo. 
 
-En la medida de lo posible el histórico que se solicite integrar debe ser lo más limpio posible, es decir, que se recomienda realizar un "squashing" antes del PR.
+El histórico que se solicite integrar debe ser lo más limpio posible, es decir, que se recomienda realizar un "squashing" antes del PR.
 
 Al cerrar el proyecto siempre habrá que realizar un PR a la rama principal, con la versión definitiva del mismo.
