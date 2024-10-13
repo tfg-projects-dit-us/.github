@@ -1,6 +1,10 @@
 # Trabajos de fin de estudios
-Esta organización Github facilita la gestión y publicación de repositorios en los que contribuyen alumnos y profesores del Departamento de Ingeniería Telemática de la Universidad de Sevilla.
-## Modo de trabajo
+Esta organización Github facilita la gestión y publicación de repositorios en los que contribuyen alumnos y profesores del <a href="https://departamento.us.es/ingtelematica/"> Departamento de Ingeniería Telemática </a> de la <a href="https://www.us.es/"> Universidad de Sevilla</a>.
+
+## Registro y tramitación de los trabajos de fin de estudios
+Toda la información sobre el proceso de registro y tramitación de los trabajos fin de estudios está disponible <a href="https://etsi.us.es/servicios-universitarios/secretaria/registro-y-tramitacion-de-tfgtfm"> en la web de la ETSI </a>
+
+## Gestión de los repositorios
 Los alumnos deben trabajar siguiendo un modelo de desarrollo colaborativo y los principios de gitflow.
 
 Deberán realizar un fork del repositorio de interés, crear una rama en su fork con un nombre suficientemente significativo de la característica en la que estén trabajando y crear las nuevas versiones en esta rama.
